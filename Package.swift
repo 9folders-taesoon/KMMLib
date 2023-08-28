@@ -2,8 +2,8 @@
 import PackageDescription
 
 // BEGIN KMMBRIDGE VARIABLES BLOCK (do not edit)
-let remoteKotlinUrl = "https://maven.pkg.github.com/9folders-taesoon/KMMLib/org/taesoon2/allshared-kmmbridge/0.1.2/allshared-kmmbridge-0.1.2.zip"
-let remoteKotlinChecksum = "7c607673a2f217978c46a550cb498c860a287f8a0ec62887f9474bdd6d3560d8"
+let remoteKotlinUrl = "https://maven.pkg.github.com/9folders-taesoon/KMMLib/org/taesoon2/allshared-kmmbridge/0.1.3/allshared-kmmbridge-0.1.3.zip"
+let remoteKotlinChecksum = "533badc565f170065c033192981d56146aea0cd43ef1c587877038f8f411a906"
 let packageName = "allshared"
 // END KMMBRIDGE BLOCK
 
