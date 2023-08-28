@@ -41,6 +41,8 @@ kotlin {
 
         framework {
             export(project(":analytics"))
+            export(project(":breeds"))
+
             isStatic = true
         }
     }
